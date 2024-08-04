@@ -8,11 +8,18 @@
     font-size: 50px;
 }
 
+.recipe-list {
+    padding: 10px;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
 .menu-entry {
     background-color: aliceblue;
     border: 1px solid burlywood;
     padding: 5px;
-    margin-bottom: 10px;
+    margin: 10px auto;
+    width: 400px;
 }
 
 .menu-entry a {
